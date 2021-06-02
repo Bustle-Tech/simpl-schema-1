@@ -6,3 +6,4 @@
 
 - Incorporates PR from https://github.com/longshotlabs/simpl-schema/pull/360
 - Taken from repo https://github.com/lynchem/simple-schema-js
+
